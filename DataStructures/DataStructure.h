@@ -68,7 +68,7 @@ protected:
 
 #pragma endregion
 
-#pragma region 链表的链式描述(单向链表)
+#pragma region 线性表的链式描述(单向链表)
 template<class T>
 struct chainNode//链表节点的结构定义
 {

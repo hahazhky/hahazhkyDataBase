@@ -1,21 +1,16 @@
-﻿生成启动时间为 2017/5/5 11:00:32。
-     1>项目“D:\vs2013_c++\DataStructures\DataStructures\DataStructures.vcxproj”在节点 2 上(Build 个目标)。
+﻿生成启动时间为 2017/5/19 16:31:50。
+     1>项目“D:\GitManagement\DataStructure\DataStructures\DataStructures.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ArrayList.cpp Chain.cpp VectorList.cpp
-         VectorList.cpp
-         Chain.cpp
-         ArrayList.cpp
-         正在生成代码...
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /D _SCL_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
          main.cpp
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\vs2013_c++\DataStructures\Debug\DataStructures.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\vs2013_c++\DataStructures\Debug\DataStructures.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\vs2013_c++\DataStructures\Debug\DataStructures.lib" /MACHINE:X86 Debug\ArrayList.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\GitManagement\DataStructure\Debug\DataStructures.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\GitManagement\DataStructure\Debug\DataStructures.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\GitManagement\DataStructure\Debug\DataStructures.lib" /MACHINE:X86 Debug\ArrayList.obj
          Debug\Chain.obj
          Debug\main.obj
          Debug\VectorList.obj
-         DataStructures.vcxproj -> D:\vs2013_c++\DataStructures\Debug\DataStructures.exe
-     1>已完成生成项目“D:\vs2013_c++\DataStructures\DataStructures\DataStructures.vcxproj”(Build 个目标)的操作。
+         DataStructures.vcxproj -> D:\GitManagement\DataStructure\Debug\DataStructures.exe
+     1>已完成生成项目“D:\GitManagement\DataStructure\DataStructures\DataStructures.vcxproj”(Build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:03.64
+已用时间 00:00:01.21
